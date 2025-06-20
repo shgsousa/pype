@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: pype
+Version: 0.1.0
+Summary: Python Petroleum Engineering Module
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# pype
+Python library for petroleum engineering.
